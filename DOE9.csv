@@ -1,0 +1,11 @@
+﻿Teams,Zone,TotalMatches,MatchesWon,MatchesLost,WinPercent,PastWinner,Popularity,TeamPerformance
+Mumbai Indians,West,120,80,40,66.67,Yes,High,Successful
+Chennai Super Kings,South,90,70,20,77.78,Yes,High,Successful
+Kolkata Knight Riders,East,110,60,50,54.55,Yes,Medium,Successful
+Royal Challengers Bangalore,South,100,40,60,40,No,High,Not Successful
+Rajasthan Royals,West,80,50,30,62.5,Yes,Low,Successful
+Sunrisers Hyderabad,South,100,50,50,50,Yes,Medium,Not Successful
+Delhi Capitals,North,110,60,50,54.55,No,Low,Not Successful
+Lucknow Super Giants,North,50,25,25,50,No,Low,Not Successful
+Punjab Kings,North,90,40,50,44.44,No,Low,Not Successful
+Gujarat Titans,West,60,30,30,50,Yes,Medium,Successful
