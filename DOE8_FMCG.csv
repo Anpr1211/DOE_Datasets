@@ -1,6 +1,16 @@
-﻿CompanySegment,July,August,September
-Food and Beverages,Loss,Loss,Profit
-Personal Care,Profit,Profit,Profit
-Home Care,Loss,Profit,Loss
-Health Care,Loss,Loss,Loss
-Snack Foods,Profit,Profit,Profit
+﻿Month,CompanySegment,Sales
+July,Food and Beverages,30972
+July,Personal Care,53400
+July,Home Care,45495
+July,Health Care,51171
+July,Snack Foods,21121
+August,Food and Beverages,31828
+August,Personal Care,33666
+August,Home Care,32393
+August,Health Care,27943
+August,Snack Foods,26387
+September,Food and Beverages,34708
+September,Personal Care,53739
+September,Home Care,36738
+September,Health Care,52855
+September,Snack Foods,44596
