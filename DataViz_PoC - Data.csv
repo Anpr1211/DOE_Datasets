@@ -1,0 +1,114 @@
+Month,Genre,MovieTitle,Director,Actor,ProductionStudio,ProductionStates,ProductionCity,Language,Budget,Collection
+July,Action,Thunderous Tales,Diya Singhania,Karan Singhania,Dharma Productions,Maharashtra,Mumbai,Hindi,47,87
+August,Romance,Love in Monsoon,Natasha Reddy,Akshay Kumar,Yash Raj Films,Delhi,New Delhi,Hindi,50,130
+September,Drama,Echoes of Emotions,Kabir Mehta,Karan Singhania,T-Series,Karnataka,Bengaluru,Kannada,47,100
+October,Thriller,Enigmatic Echoes,Diya Singhania,Meera Joshi,Eros International,West Bengal,Kolkata,Bengali,23,10
+November,Comedy,Laughter Chronicles,Kabir Mehta,Anjali Mehra,Rajshri Productions,Maharashtra,Pune,Marathi,40,100
+December,Fantasy,Fantastical Journeys,Natasha Reddy,Pooja Chatterjee,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,100,10
+January,Historical,Legends Retold,Aarav Malhotra,Natasha Kapoor,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,80,10
+February,Mystery,Veiled Secrets,Aarav Malhotra,Vikram Malhotra,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,75,87
+March,Sci-Fi,Cosmic Adventures,Aarav Malhotra,Pooja Chatterjee,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,39,10
+April,Action,Thrilling Heights,Aarav Malhotra,Karan Singhania,Red Chillies Entertainment,Maharashtra,Mumbai,Hindi,67,87
+May,Romance,Romance in Bloom,Natasha Reddy,Rahul Verma,Yash Raj Films,Delhi,New Delhi,Hindi,43,100
+June,Drama,Theatrical Symphony,Aarav Malhotra,Rishi Shah,T-Series,Karnataka,Bengaluru,Kannada,59,87
+July,Thriller,Whispering Shadows,Natasha Reddy,Priya Sharma,Eros International,West Bengal,Kolkata,Bengali,61,10
+August,Comedy,Comic Relief,Natasha Reddy,Arjun Khanna,Rajshri Productions,Maharashtra,Pune,Marathi,100,101
+September,Fantasy,Enchanted Dreamscape,Diya Singhania,Neha Desai,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,48,87
+October,Historical,Historical Legends,Diya Singhania,Pooja Chatterjee,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,69,87
+November,Mystery,Mysterious Enigmas,Diya Singhania,Arjun Khanna,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,81,10
+December,Sci-Fi,Sci-Fi Wonders,Diya Singhania,Arjun Khanna,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,23,50
+January,Action,Thundering Storm,Natasha Reddy,Aishwarya Patel,Dharma Productions,Maharashtra,Mumbai,Hindi,77,87
+February,Romance,Love Diaries,Diya Singhania,Kriti Banerjee,Yash Raj Films,Delhi,New Delhi,Hindi,29,30
+March,Drama,Echoes of Eternity,Kabir Mehta,Meera Joshi,T-Series,Karnataka,Bengaluru,Kannada,81,50
+April,Thriller,Veiled Truths,Natasha Reddy,Siddharth Rao,Eros International,West Bengal,Kolkata,Bengali,71,130
+May,Comedy,Laughter Unlimited,Natasha Reddy,Priya Sharma,Rajshri Productions,Maharashtra,Pune,Marathi,78,87
+June,Fantasy,Enchanted Escapades,Diya Singhania,Tanvi Gupta,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,66,10
+July,Historical,Chronicles of History,Aarav Malhotra,Aishwarya Patel,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,91,100
+August,Mystery,Cryptic Whispers,Natasha Reddy,Rahul Verma,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,62,50
+September,Sci-Fi,Futuristic Odyssey,Natasha Reddy,Vikram Malhotra,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,40,133
+October,Action,Thunder Reigns,Diya Singhania,Meera Joshi,Red Chillies Entertainment,Maharashtra,Mumbai,Hindi,21,10
+November,Romance,Melodies in Moonlight,Aarav Malhotra,Vikram Malhotra,Yash Raj Films,Delhi,New Delhi,Hindi,35,30
+December,Drama,Theatrical Emotions,Diya Singhania,Anjali Mehra,T-Series,Karnataka,Bengaluru,Kannada,74,130
+January,Thriller,Midnight Secrets,Natasha Reddy,Rishi Shah,Eros International,West Bengal,Kolkata,Bengali,69,100
+February,Comedy,Comedy Carnival,Natasha Reddy,Deepika Reddy,Rajshri Productions,Maharashtra,Pune,Marathi,100,139
+March,Fantasy,Whimsical Adventures,Aarav Malhotra,Siddharth Rao,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,54,30
+April,Historical,Historical Chronicles,Aarav Malhotra,Anjali Mehra,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,20,10
+May,Mystery,Enigmatic Trails,Natasha Reddy,Akshay Kumar,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,66,87
+June,Sci-Fi,Cosmic Odyssey,Kabir Mehta,Rajesh Kapoor,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,55,50
+July,Action,Thrilling Road,Aarav Malhotra,Deepika Reddy,Dharma Productions,Maharashtra,Mumbai,Hindi,97,130
+August,Romance,Love and lIfe,Aarav Malhotra,Dev Patel,Yash Raj Films,Delhi,New Delhi,Hindi,90,10
+September,Drama,Dramatic Tales,Natasha Reddy,Rajesh Kapoor,T-Series,Karnataka,Bengaluru,Kannada,85,129
+October,Thriller,Whispers of Night,Diya Singhania,Tanvi Gupta,Eros International,West Bengal,Kolkata,Bengali,54,130
+November,Comedy,Comic Capers,Natasha Reddy,Meera Joshi,Rajshri Productions,Maharashtra,Pune,Marathi,26,10
+December,Fantasy,Fantastical Realms,Kabir Mehta,Meera Joshi,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,42,87
+January,Historical,Historical Sagas,Diya Singhania,Rahul Verma,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,32,30
+February,Mystery,Mysterious Mysteries,Kabir Mehta,Aishwarya Patel,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,38,130
+March,Sci-Fi,Galactic Adventures,Kabir Mehta,Meera Joshi,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,86,30
+April,Action,Thunderous Triumph,Diya Singhania,Karan Singhania,Dharma Productions,Maharashtra,Mumbai,Hindi,43,100
+May,Romance,Eternal Love,Kabir Mehta,Rishi Shah,Yash Raj Films,Delhi,New Delhi,Hindi,56,50
+June,Drama,Echoes of Life,Natasha Reddy,Deepika Reddy,T-Series,Karnataka,Bengaluru,Kannada,55,30
+July,Thriller,Veiled Vengeance,Natasha Reddy,Aishwarya Patel,Eros International,West Bengal,Kolkata,Bengali,27,30
+August,Comedy,Laughing Out Loud,Diya Singhania,Arjun Khanna,Rajshri Productions,Maharashtra,Pune,Marathi,53,30
+September,Fantasy,Enchanted Odyssey,Natasha Reddy,Vivek Mishra,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,52,87
+October,Historical,Chronicles of Legends,Kabir Mehta,Rahul Verma,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,45,10
+November,Mystery,Mysterious Whispers,Kabir Mehta,Anjali Mehra,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,39,100
+December,Sci-Fi,Cosmic Journeys,Natasha Reddy,Natasha Kapoor,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,43,10
+January,Action,Thunderstorm,Kabir Mehta,Rishi Shah,Dharma Productions,Maharashtra,Mumbai,Hindi,59,100
+February,Romance,Unspoken Love,Diya Singhania,Tanvi Gupta,Yash Raj Films,Delhi,New Delhi,Hindi,56,30
+March,Drama,Dramatic Renditions,Natasha Reddy,Aishwarya Patel,T-Series,Karnataka,Bengaluru,Kannada,93,87
+April,Thriller,Midnight Mysteries,Aarav Malhotra,Akshay Kumar,Eros International,West Bengal,Kolkata,Bengali,90,130
+May,Comedy,Comic Symphony,Diya Singhania,Siddharth Rao,Rajshri Productions,Maharashtra,Pune,Marathi,67,87
+June,Fantasy,Fantasy Escapades,Aarav Malhotra,Natasha Kapoor,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,86,87
+July,Historical,Legendary Chronicles,Natasha Reddy,Neha Desai,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,73,50
+August,Mystery,Veiled Secrets of Rana,Aarav Malhotra,Karan Singhania,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,83,50
+September,Sci-Fi,Galactic Dreamers,Natasha Reddy,Siddharth Rao,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,64,30
+October,Action,Thunderous Legacy of Shakti,Diya Singhania,Rishi Shah,Dharma Productions,Maharashtra,Mumbai,Hindi,68,50
+November,Romance,Endless Affection of Ganga,Kabir Mehta,Neha Desai,Yash Raj Films,Delhi,New Delhi,Hindi,30,30
+December,Drama,Echoes of Waqt,Aarav Malhotra,Karan Singhania,T-Series,Karnataka,Bengaluru,Kannada,25,130
+January,Thriller,Veiled Whispers,Natasha Reddy,Anjali Mehra,Eros International,West Bengal,Kolkata,Bengali,46,50
+February,Comedy,Laugh Riot,Kabir Mehta,Deepika Reddy,Rajshri Productions,Maharashtra,Pune,Marathi,55,50
+March,Fantasy,Fantastical Dreams,Natasha Reddy,Karan Singhania,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,22,30
+April,Historical,Historical Legacy,Aarav Malhotra,Rajesh Kapoor,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,29,50
+May,Mystery,Enigmatic Enigmas,Natasha Reddy,Rishi Shah,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,45,100
+June,Sci-Fi,Cosmic Conquests,Diya Singhania,Aishwarya Patel,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,33,87
+November,Comedy,Laugh Riot of family,Natasha Reddy,Tanvi Gupta,Red Chillies Entertainment,Maharashtra,Mumbai,Hindi,48,50
+December,Romance,Serenade Serendipity,Natasha Reddy,Rajesh Kapoor,Yash Raj Films,Delhi,New Delhi,Hindi,79,10
+January,Action,Pulse of Power,Diya Singhania,Tanvi Gupta,Dharma Productions,Karnataka,Bengaluru,Kannada,63,10
+February,Drama,Solitary Solace,Aarav Malhotra,Rishi Shah,T-Series,Tamil Nadu,Chennai,Tamil,36,30
+March,Action,Midnight Mysteries: Cottage,Aarav Malhotra,Akshay Kumar,Eros International,West Bengal,Kolkata,Bengali,76,30
+April,Comedy,Chuckles & Giggles again,Diya Singhania,Siddharth Rao,Rajshri Productions,Maharashtra,Pune,Marathi,64,87
+May,Fantasy,Enchanted Dreams,Kabir Mehta,Vikram Malhotra,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,25,87
+June,Historical,Chronicles of Heritage,Kabir Mehta,Anjali Mehra,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,76,100
+July,Mystery,Secrets Unveiled,Aarav Malhotra,Karan Singhania,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,93,100
+December,Sci-Fi,Futuristic Visions,Natasha Reddy,Vivek Mishra,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,43,10
+September,Action,Rising Fury,Kabir Mehta,Arjun Khanna,Red Chillies Entertainment,Maharashtra,Mumbai,Hindi,24,10
+October,Romance,Love in Limelight,Diya Singhania,Aishwarya Patel,Yash Raj Films,Delhi,New Delhi,Hindi,78,100
+November,Comedy,Hilarious Happenings,Aarav Malhotra,Akshay Kumar,Dharma Productions,Karnataka,Bengaluru,Kannada,57,50
+December,Drama,Tears and Triumphs,Natasha Reddy,Arjun Khanna,T-Series,Tamil Nadu,Chennai,Tamil,34,87
+January,Thriller,Fearful Whispers,Aarav Malhotra,Pooja Chatterjee,Eros International,West Bengal,Kolkata,Bengali,39,130
+February,Comedy,Comedy Carousel,Diya Singhania,Dev Patel,Rajshri Productions,Maharashtra,Pune,Marathi,58,100
+March,Fantasy,Fantasy Fables,Aarav Malhotra,Anjali Mehra,Excel Entertainment,Rajasthan,Jaipur,Rajasthani,56,87
+April,Historical,History's Tapestry,Aarav Malhotra,Kriti Banerjee,Viacom18 Motion Pictures,Telangana,Hyderabad,Telugu,33,130
+May,Mystery,Cryptic Chronicles,Aarav Malhotra,Aishwarya Patel,Fox Star Studios,Gujarat,Ahmedabad,Gujarati,54,87
+June,Sci-Fi,Galactic Odyssey,Natasha Reddy,Vikram Malhotra,UTV Motion Pictures,Punjab,Chandigarh,Punjabi,64,87
+December,Action,Rogue Resurgence The Last Stand,Kabir Mehta,Karan Singhania,T-Series,Maharashtra,Pune,Kannada,47,100
+August,Romance,Whispers in the Moonlight,Natasha Reddy,Tanvi Gupta,T-Series,Rajasthan,Jaipur,Hindi,124,190
+September,Drama,Fragments of Eternity,Aarav Malhotra,Rishi Shah,T-Series,Telangana,Hyderabad,Hindi,78,100
+October,Thriller,Echoes of Deception,Diya Singhania,Akshay Kumar,T-Series,Gujarat,Ahmedabad,Kannada,57,50
+November,Comedy,Chaos at the Chateau,Aarav Malhotra,Siddharth Rao,T-Series,Punjab,Chandigarh,Tamil,34,87
+December,Fantasy,Realm of Everlasting Shadows,Aarav Malhotra,Vikram Malhotra,T-Series,Maharashtra,Mumbai,Bengali,39,157
+January,Historical,Sands of Dynasty,Aarav Malhotra,Anjali Mehra,T-Series,Delhi,New Delhi,Marathi,58,39
+February,Mystery,Midnight Reverie,Natasha Reddy,Karan Singhania,T-Series,Karnataka,Bengaluru,Hindi,74,140
+June,Sci-Fi,Nebula Odyssey:  Chronicles of Beyond,Kabir Mehta,Vivek Mishra,T-Series,Tamil Nadu,Chennai,Hindi,78,100
+December,Action,Fury's Redemption: Shadow Strike,Natasha Reddy,Rishi Shah,Yash Raj Films,Maharashtra,Pune,Gujarati,100,130
+August,Action,The Nexus Protocol,Diya Singhania,Deepika Reddy,Yash Raj Films,Rajasthan,Jaipur,Punjabi,254,330
+September,Action,Revelation Rising: Thunderous Skies,Kabir Mehta,Aishwarya Patel,Dharma Productions,Telangana,Hyderabad,Kannada,220,87
+October,Action,Rogue Justice: Midnight Vendetta,Aarav Malhotra,Arjun Khanna,Yash Raj Films,Gujarat,Ahmedabad,Hindi,66,87
+November,Action,Eclipse of the Titans: Havoc Unbound,Natasha Reddy,Vivek Mishra,Yash Raj Films,Punjab,Chandigarh,Hindi,155,50
+December,Action,Chronicles of Destiny: Serenity's Call,Kabir Mehta,Rahul Verma,Yash Raj Films,Maharashtra,Mumbai,Kannada,97,141
+January,Drama,Crimson Legacy: Resurgence of Heroes,Natasha Reddy,Anjali Mehra,Yash Raj Films,Delhi,New Delhi,Tamil,90,10
+February,Action,Mystic Mayhem: Enigma Unleashed,Aarav Malhotra,Natasha Kapoor,Yash Raj Films,Punjab,Chandigarh,Bengali,85,130
+March,Action,The Comedy Caper: Mischief Manor,Natasha Reddy,Rishi Shah,Red Chillies Entertainment,Maharashtra,Mumbai,Marathi,124,137
+April,Action,Pandemonium Plaza: Hilarity Ensues,Diya Singhania,Tanvi Gupta,Yash Raj Films,Delhi,New Delhi,Hindi,90,10
+December,Comedy,Eternal Fury: Legacy of the Phoenix,Natasha Reddy,Aishwarya Patel,Yash Raj Films,Karnataka,Bengaluru,Hindi,85,152
+June,Action,Vortex Vanguard: Blades of Destiny,Natasha Reddy,Akshay Kumar,Red Chillies Entertainment,Tamil Nadu,Chennai,Kannada,124,151
