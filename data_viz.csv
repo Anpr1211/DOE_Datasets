@@ -1,4 +1,4 @@
-﻿student_id,stream,sub1_r,sub2_r,sub3_r,sub4_r,sub5_r,birth_day,birth_month,birth_year,gender
+﻿StudentId,Stream,GeneralKnowledge,English,PoliticalScience,GeneralMaths,GeneralAptitude,BirthDay,BirthMonth,BirthYear,Gender
 337084,ARTS,D,D,D,34,33,26,September,1999,female
 306254,ARTS,D,D,D,27,32,7,December,1999,female
 335008,ARTS,C,D,D,21,25,8,December,1998,female
