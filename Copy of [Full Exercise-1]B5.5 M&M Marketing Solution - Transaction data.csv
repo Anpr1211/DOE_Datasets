@@ -1,0 +1,645 @@
+ Transaction Comment               ,Month,Amount
+| VfS/Facebook &/20221015/Visitjaipur/5676 |,October,74100
+| VIN/YouTube/20221102/Visitrajasthan/4564 |,November,99800
+| NEFT/Instagram/20221010/visitudaipur/4565 |,October,76700
+| CHQ/Offline &/20221021/Visitjodhpur/4566 |,October,54000
+| VfS/Google Ads/20221018/visitJaisalmer/3455 |,October,73700
+| VIN/TwiTter/20221005/visitbikaner/5666 |,October,74600
+| NEFT/YouTube/20221010/Visitjaipur/5676 |,October,21500
+| NEFT/Instagram/20221010/Visitjaipur/5676 |,October,12100
+| NEFT/Offline/20221010/Visitjaipur/5676 |,October,58400
+| NEFT/Google Ads/20221010/Visitjaipur/5676 |,October,71500
+| NEFT/Twitter/20221010/Visitjaipur/5676 |,October,17200
+| CHQ/YouTube &/20221030/Visitrajasthan/4564 |,October,55800
+| VfS/Facebook/20221007/visitudaipur/4565 |,October,73900
+| VIN/YouTube &/20221025/Visitjodhpur/4566 |,October,53000
+| NEFT/Facebook/20221013/Visitjaipur/5676 |,October,76300
+| VfS/Facebook/20221022/Visitrajasthan/4564 |,October,16600
+| CHQ/Google Ads/20221027/visitudaipur/4565 |,October,85000
+| VIN/twitter &/20221019/Visitjodhpur/4566 |,October,20100
+| NEFT/Facebook/20221005/visitJaisalmer/3455 |,October,52100
+| CHQ/FaceBook/20221008/visitbikaner/5666 |,October,83000
+| VfS/Facebook/20221016/Visitjaipur/5676 |,October,90500
+| NEFT/Instagram &/20221024/Visitrajasthan/4564 |,October,32200
+| VfS/YouTube/20221009/visitudaipur/4565 |,October,62500
+| VIN/Facebook &/20221023/Visitjodhpur/4566 |,October,19200
+| CHQ/Facebook/20221107/Visitjaipur/5676 |,November,63400
+| VfS/YouTube/20221121/Visitrajasthan/4564 |,November,92100
+| NEFT/Instagram/20221124/visitudaipur/4565 |,November,95100
+| CHQ/Google Ads &/20221007/Visitjodhpur/4566 |,October,12800
+| VfS/Google Ads/20221212/visitJaisalmer/3455 |,December,48300
+| VIN/Youtube/20221015/visitbikaner/5666 |,October,19000
+| NEFT/Facebook/20221126/Visitjaipur/5676 |,November,29100
+| CHQ/YouTube &/20221203/Visitrajasthan/4564 |,December,25900
+| VfS/Instagram/20221218/visitudaipur/4565 |,December,71800
+| VIN/OfflINe &/20221214/Visitjodhpur/4566 |,December,46800
+| VfS/Facebook/20221010/Visitjaipur/5676 |,October,49200
+| VIN/Offline/20221026/Visitrajasthan/4564 |,October,64300
+| NEFT/Offline/20221030/visitudaipur/4565 |,October,51300
+| CHQ/Offline &/20221015/Visitjodhpur/4566 |,October,56300
+| VfS/Google Ads/20221121/visitJaisalmer/3455 |,November,81000
+| VIN/Instagram/20221028/visitbikaner/5666 |,October,64400
+| NEFT/Facebook/20221101/Visitjaipur/5676 |,November,97800
+| CHQ/YouTube &/20221109/Visitrajasthan/4564 |,November,42300
+| VfS/Twitter/20221023/visitudaipur/4565 |,October,99200
+| VIN/Instagram &/20221027/Visitjodhpur/4566 |,October,70900
+| CHQ/Facebook/20221214/Visitjaipur/5676 |,December,47600
+| VfS/YouTube/20221219/Visitrajasthan/4564 |,December,87100
+| NEFT/Offline/20221025/visitudaipur/4565 |,October,88400
+| CHQ/Offline &/20221230/Visitjodhpur/4566 |,December,27600
+| VfS/YouTube/20221007/visitJaisalmer/3455 |,October,43000
+| VIN/offline/20221010/visitbikaner/5666 |,October,42500
+| NEFT/Facebook/20221015/Visitjaipur/5676 |,October,22300
+| CHQ/Google Ads &/20221019/Visitrajasthan/4564 |,October,54700
+| VfS/Instagram/20221101/visitudaipur/4565 |,November,63900
+| VIN/OfflINe &/20221026/Visitjodhpur/4566 |,October,38100
+| VfS/Facebook/20221015/Visitjaipur/5676 |,October,14100
+| VIN/twitter/20221002/Visitrajasthan/4564 |,October,48000
+| NEFT/Instagram/20221210/visitudaipur/4565 |,December,89800
+| CHQ/Offline &/20221221/Visitjodhpur/4566 |,December,36900
+| VfS/Google Ads/20221118/visitJaisalmer/3455 |,November,26100
+| VIN/Google ads/20221005/visitbikaner/5666 |,October,90000
+| NEFT/Facebook/20221212/Visitjaipur/5676 |,December,79700
+| CHQ/YouTube &/20221030/Visitrajasthan/4564 |,October,29700
+| VfS/Instagram/20221107/visitudaipur/4565 |,November,93200
+| VIN/OfflINe &/20221225/Visitjodhpur/4566 |,December,74300
+| NEFT/Facebook/20221013/Visitjaipur/5676 |,October,13600
+| VfS/YouTube/20221022/Visitrajasthan/4564 |,October,42900
+| CHQ/Instagram/20221027/visitudaipur/4565 |,October,62400
+| VIN/Offline &/20221019/Visitjodhpur/4566 |,October,78300
+| NEFT/Google Ads/20221105/visitJaisalmer/3455 |,November,74000
+| CHQ/TwiTter/20221008/visitbikaner/5666 |,October,11000
+| VfS/Facebook/20221016/Visitjaipur/5676 |,October,32600
+| NEFT/YouTube &/20221024/Visitrajasthan/4564 |,October,48800
+| VfS/Instagram/20221109/visitudaipur/4565 |,November,13300
+| VIN/OfflINe &/20221023/Visitjodhpur/4566 |,October,58600
+| CHQ/Facebook/20221107/Visitjaipur/5676 |,November,80400
+| VfS/YouTube/20221121/Visitrajasthan/4564 |,November,75400
+| NEFT/Instagram/20221124/visitudaipur/4565 |,November,81600
+| CHQ/Offline &/20221207/Visitjodhpur/4566 |,December,30900
+| VfS/Google Ads/20221212/visitJaisalmer/3455 |,December,17300
+| VIN/TwiTter/20221115/visitbikaner/5666 |,November,34700
+| NEFT/Facebook/20221126/Visitjaipur/5676 |,November,69800
+| CHQ/YouTube &/20221203/Visitrajasthan/4564 |,December,60900
+| VfS/Instagram/20221218/visitudaipur/4565 |,December,15100
+| VIN/OfflINe &/20221214/Visitjodhpur/4566 |,December,38500
+| VfS/Facebook/20221010/Visitjaipur/5676 |,October,25300
+| VIN/YouTube/20221026/Visitrajasthan/4564 |,October,38700
+| NEFT/Instagram/20221030/visitudaipur/4565 |,October,36300
+| CHQ/Offline &/20221015/Visitjodhpur/4566 |,October,23600
+| VfS/Google Ads/20221121/visitJaisalmer/3455 |,November,88500
+| VIN/TwiTter/20221028/visitbikaner/5666 |,October,80000
+| NEFT/Facebook/20221101/Visitjaipur/5676 |,November,37300
+| CHQ/YouTube &/20221109/Visitrajasthan/4564 |,November,39100
+| VfS/Instagram/20221123/visitudaipur/4565 |,November,17600
+| VIN/OfflINe &/20221127/Visitjodhpur/4566 |,November,20700
+| CHQ/Facebook/20221214/Visitjaipur/5676 |,December,92400
+| VfS/YouTube/20221219/Visitrajasthan/4564 |,December,80000
+| NEFT/Instagram/20221225/visitudaipur/4565 |,December,41800
+| CHQ/Offline &/20221230/Visitjodhpur/4566 |,December,42500
+| VfS/twitter/20221007/visitJaisalmer/3455 |,October,85600
+| VIN/TwiTter/20221210/visitbikaner/5666 |,December,34200
+| NEFT/Facebook/20221015/Visitjaipur/5676 |,October,42500
+| CHQ/YouTube &/20221019/Visitrajasthan/4564 |,October,41100
+| VfS/Instagram/20221101/visitudaipur/4565 |,November,10600
+| VIN/OfflINe &/20221026/Visitjodhpur/4566 |,October,56900
+| CHQ/Facebook/20221002/Visitjaipur/5676 |,October,72800
+| VfS/YouTube/20221017/Visitrajasthan/4564 |,October,88100
+| NEFT/Instagram/20221205/visitudaipur/4565 |,December,64700
+| CHQ/Offline &/20221208/Visitjodhpur/4566 |,December,17200
+| VfS/Instagram/20221011/visitJaisalmer/3455 |,October,24800
+| VIN/TwiTter/20221114/visitbikaner/5666 |,November,48600
+| NEFT/Facebook/20221117/Visitjaipur/5676 |,November,16100
+| CHQ/YouTube &/20221120/Visitrajasthan/4564 |,November,33600
+| VfS/Instagram/20221123/visitudaipur/4565 |,November,89600
+| VIN/OfflINe &/20221126/Visitjodhpur/4566 |,November,17100
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,43100
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,45000
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,55000
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,52000
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,31700
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,36300
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,28000
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,58200
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,78700
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,19100
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,19900
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,31600
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,79500
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,57200
+| VfS/Offline/20221013/visitJaisalmer/3455 |,October,86800
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,40100
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,43200
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,20500
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,73600
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,54000
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,53200
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,57200
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,87200
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,10300
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,17100
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,42800
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,72800
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,92100
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,29500
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,21800
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,97300
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,60200
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,50300
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,57700
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,86900
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,64800
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,60700
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,73700
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,77200
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,14400
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,87300
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,21700
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,62000
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,89800
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,31700
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,33800
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,10300
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,28300
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,66000
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,83800
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,72500
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,71800
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,98500
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,99200
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,32300
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,98400
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,42700
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,18200
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,97100
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,13800
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,87100
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,96200
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,88000
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,21600
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,39900
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,76600
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,76400
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,37700
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,33500
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,11800
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,22300
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,15300
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,52400
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,78300
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,42800
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,18900
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,19800
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,25600
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,41200
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,68900
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,44800
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,59400
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,47600
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,23800
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,92100
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,90900
+| NEFT/Youtube/20221119/Visitjaipur/5676 |,November,62400
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,82700
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,59600
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,62600
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,79200
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,61800
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,79200
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,33100
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,98600
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,81500
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,44600
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,95000
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,11600
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,24800
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,54000
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,77800
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,57200
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,81600
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,14100
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,39600
+| NEFT/Offline/20221119/Visitjaipur/5676 |,November,94600
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,81100
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,41300
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,32200
+| CHQ/Instagram/20221101/Visitjaipur/5676 |,November,63400
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,25500
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,17200
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,53500
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,87700
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,11300
+| NEFT/Instagram/20221119/Visitjaipur/5676 |,November,28200
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,47500
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,96600
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,37500
+| CHQ/Google Ads/20221101/Visitjaipur/5676 |,November,32800
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,24000
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,24800
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,48100
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,96200
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,60200
+| NEFT/twitter/20221119/Visitjaipur/5676 |,November,92800
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,18700
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,29200
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,98800
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,36700
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,43800
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,67000
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,75500
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,66000
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,50600
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,84200
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,98000
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,14000
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,20900
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,54500
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,56100
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,96700
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,39800
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,36500
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,49200
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,91600
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,54500
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,11800
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,93800
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,57700
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,29200
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,51400
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,57700
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,82600
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,68900
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,69100
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,32300
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,47500
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,12400
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,85800
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,87500
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,58400
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,60200
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,67000
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,73900
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,97800
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,91200
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,39200
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,72000
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,66700
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,21900
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,36600
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,53500
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,80000
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,39900
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,63000
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,73700
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,60600
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,43000
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,75000
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,38000
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,43200
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,58700
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,68700
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,57100
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,54200
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,77800
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,63500
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,68300
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,62400
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,26800
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,21600
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,28500
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,93600
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,82900
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,60400
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,37300
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,54600
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,71800
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,16700
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,63300
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,13400
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,66200
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,63000
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,88400
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,36900
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,80500
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,58200
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,28800
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,52800
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,67500
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,14600
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,49000
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,69500
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,24500
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,23400
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,97400
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,97000
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,20800
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,55500
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,41100
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,42100
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,28300
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,48800
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,13800
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,11200
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,13300
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,49500
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,19000
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,31200
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,30100
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,63300
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,56900
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,49400
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,36000
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,50200
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,58500
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,83900
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,76700
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,11000
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,83800
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,71000
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,55000
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,62600
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,95300
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,17900
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,69100
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,75100
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,91100
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,99600
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,84500
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,90500
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,80400
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,30000
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,44700
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,57800
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,78700
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,15000
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,55900
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,39500
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,16000
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,47700
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,36000
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,65400
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,82800
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,56200
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,17600
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,60300
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,74200
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,11000
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,99500
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,77000
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,10400
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,61700
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,56000
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,49400
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,37400
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,53700
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,48600
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,50600
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,97000
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,69700
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,66700
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,14400
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,17600
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,26000
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,67200
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,82100
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,43600
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,70000
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,72000
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,67400
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,27900
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,74700
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,76600
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,62900
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,40800
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,45400
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,88300
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,88800
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,49600
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,55000
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,64200
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,19400
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,71000
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,27900
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,14200
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,29200
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,11700
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,76900
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,13000
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,84100
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,20300
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,94400
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,29100
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,36900
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,23100
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,95300
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,65200
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,65800
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,97700
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,70700
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,35900
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,74000
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,47300
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,80500
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,53700
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,44600
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,87900
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,85200
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,35400
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,54100
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,36300
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,75000
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,70900
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,23500
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,38700
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,73600
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,99100
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,28200
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,27500
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,96800
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,81000
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,18900
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,56900
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,53000
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,72600
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,58200
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,96200
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,50500
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,22900
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,14500
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,56100
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,32500
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,63200
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,68300
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,72700
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,11600
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,74400
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,36800
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,57400
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,70000
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,88100
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,79900
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,39700
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,10800
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,48000
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,92900
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,40100
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,20900
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,70300
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,84800
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,36300
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,87800
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,66000
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,92000
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,78400
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,72800
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,45600
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,97100
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,27900
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,56200
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,89400
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,77100
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,78300
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,34400
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,12300
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,44100
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,54000
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,65000
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,43100
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,34300
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,71700
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,51500
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,51700
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,80500
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,37600
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,93400
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,47900
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,98600
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,70400
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,40200
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,15600
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,42800
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,23800
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,48200
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,24800
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,21300
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,31400
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,16100
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,84300
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,22500
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,15700
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,85600
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,29800
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,21800
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,59900
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,95900
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,97400
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,99100
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,41100
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,83200
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,86900
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,43000
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,96500
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,53300
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,83900
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,87700
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,21500
+| CHQ/Facebook/20221001/Visitjaipur/5676 |,October,88300
+| VfS/YouTube/20221004/Visitrajasthan/4564 |,October,24900
+| NEFT/Instagram/20221007/visitudaipur/4565 |,October,30100
+| CHQ/Offline &/20221010/Visitjodhpur/4566 |,October,71600
+| VfS/Google Ads/20221013/visitJaisalmer/3455 |,October,42000
+| VIN/TwiTter/20221016/visitbikaner/5666 |,October,29800
+| NEFT/Facebook/20221019/Visitjaipur/5676 |,October,87000
+| CHQ/YouTube &/20221022/Visitrajasthan/4564 |,October,34000
+| VfS/Instagram/20221025/visitudaipur/4565 |,October,81600
+| VIN/OfflINe &/20221028/Visitjodhpur/4566 |,October,19500
+| CHQ/Facebook/20221101/Visitjaipur/5676 |,November,95200
+| VfS/YouTube/20221104/Visitrajasthan/4564 |,November,87800
+| NEFT/Instagram/20221107/visitudaipur/4565 |,November,71500
+| CHQ/Offline &/20221110/Visitjodhpur/4566 |,November,95500
+| VfS/Google Ads/20221113/visitJaisalmer/3455 |,November,26800
+| VIN/TwiTter/20221116/visitbikaner/5666 |,November,41100
+| NEFT/Facebook/20221119/Visitjaipur/5676 |,November,30200
+| CHQ/YouTube &/20221122/Visitrajasthan/4564 |,November,50600
+| VfS/Instagram/20221125/visitudaipur/4565 |,November,83200
+| VIN/OfflINe &/20221128/Visitjodhpur/4566 |,November,36600
+| CHQ/Facebook/20221201/Visitjaipur/5676 |,December,74600
+| VfS/YouTube/20221204/Visitrajasthan/4564 |,December,85000
+| NEFT/Instagram/20221207/visitudaipur/4565 |,December,37100
+| CHQ/Offline &/20221210/Visitjodhpur/4566 |,December,84000
+| VfS/Google Ads/20221213/visitJaisalmer/3455 |,December,52000
+| VIN/TwiTter/20221216/visitbikaner/5666 |,December,13600
+| NEFT/Facebook/20221219/Visitjaipur/5676 |,December,56700
+| CHQ/YouTube &/20221222/Visitrajasthan/4564 |,December,58100
+| VfS/Instagram/20221225/visitudaipur/4565 |,December,86800
+| VIN/OfflINe &/20221228/Visitjodhpur/4566 |,December,54500
+|Vin/Facebook/20221019/Visitrajasthan/5676|,October,89200
+|Chq/Youtube/20221022/Visitrajasthan/4564|,October,95600
+|Vfs/Instagram/20221025/Visitrajasthan/4565|,October,20700
+|Neft/Offline/20221028/Visitrajasthan/4566|,October,23600
+|Chq/Google Ads/20221101/Visitrajasthan/3455|,November,51400
+|Vfs/Twitter/20221104/Visitrajasthan/5666|,November,32300
+|Vin/Facebook/20221107/Visitudaipur/5676|,November,97600
+|Neft/Youtube/20221110/Visitudaipur/4564|,November,58500
+|Chq/Instagram/20221113/Visitudaipur/4565|,November,90200
+|Vfs/Offline/20221116/Visitudaipur/4566|,November,40200
+|Vin/Google Ads/20221119/Visitudaipur/3455|,November,79700
+|Chq/Twitter/20221122/Visitudaipur/5666|,November,44700
+|Vfs/Facebook/20221125/Visitjodhpur/5676|,November,46600
+|Chq/Instagram/20221101/Visitjodhpur/4565|,November,23500
+|Vfs/Offline/20221104/Visitjodhpur/4566|,November,32300
+|Vin/Google Ads/20221107/Visitjodhpur/3455|,November,31300
+|Neft/Twitter/20221110/Visitjodhpur/5666|,November,35200
+|Chq/Facebook/20221113/Visitjaisalmer/5676|,November,96500
+|Vfs/Youtube/20221116/Visitjaisalmer/4564|,November,44800
+|Vin/Instagram/20221119/Visitjaisalmer/4565|,November,19600
+|Chq/Offline/20221122/Visitjaisalmer/4566|,November,96000
+|Vfs/Google Ads/20221125/Visitjaisalmer/3455|,November,35300
+|Neft/Twitter/20221128/Visitjaisalmer/5666|,November,52200
+|Chq/Facebook/20221101/Visitbikaner/5676|,November,93400
+|Vfs/Youtube/20221104/Visitbikaner/4564|,November,71200
+|Vin/Instagram/20221107/Visitbikaner/4565|,November,31800
+|Neft/Offline/20221110/Visitbikaner/4566|,November,67700
+|Chq/Google Ads/20221113/Visitbikaner/3455|,November,22400
+|Vfs/Twitter/20221116/Visitbikaner/5666|,November,83800
+|Vin/Facebook/20221219/Visitjaipur/5676|,December,77300
+|Chq/Youtube/20221222/Visitjaipur/4564|,December,80100
+|Vfs/Instagram/20221225/Visitjaipur/4565|,December,96400
+|Neft/Offline/20221228/Visitjaipur/4566|,December,10000
+|Chq/Google Ads/20221201/Visitjaipur/3455|,December,44500
+|Vfs/Twitter/20221204/Visitjaipur/5666|,December,34100
+|Vin/Facebook/20221207/Visitrajasthan/5676|,December,26800
+|Neft/Youtube/20221210/Visitrajasthan/4564|,December,50500
+|Chq/Instagram/20221213/Visitrajasthan/4565|,December,37600
+|Vfs/Offline/20221216/Visitrajasthan/4566|,December,20700
+|Vin/Google Ads/20221219/Visitrajasthan/3455|,December,71900
+|Chq/Twitter/20221222/Visitrajasthan/5666|,December,48500
+|Vfs/Facebook/20221225/Visitudaipur/5676|,December,13900
+|Neft/Youtube/20221228/Visitudaipur/4564|,December,42800
+|Chq/Instagram/20221201/Visitudaipur/4565|,December,28000
+|Vfs/Offline/20221204/Visitudaipur/4566|,December,48600
+|Vin/Google Ads/20221207/Visitudaipur/3455|,December,47800
+|Neft/Twitter/20221210/Visitudaipur/5666|,December,98500
+|Chq/Facebook/20221213/Visitjodhpur/5676|,December,48200
+|Vfs/Youtube/20221216/Visitjodhpur/4564|,December,94300
+|Vin/Instagram/20221219/Visitjodhpur/4565|,December,69600
+|Chq/Offline/20221222/Visitjodhpur/4566|,December,73400
+|Vfs/Google Ads/20221225/Visitjodhpur/3455|,December,84800
+|Neft/Twitter/20221228/Visitjodhpur/5666|,December,86300
+|Chq/FacEBook/20221201/Visitjaisalmer/5676|,December,11900
+|Vfs/Youtube/20221204/Visitjaisalmer/4564|,December,93400
+|Vin/Instagram/20221207/Visitjaisalmer/4565|,December,21400
+|Neft/Offline/20221210/Visitjaisalmer/4566|,December,39900
+|Chq/Google Ads/20221213/Visitjaisalmer/3455|,December,22800
+|Vfs/Twitter/20221216/VisitjAIsalmer/5666|,December,66100
+|Vin/Facebook/20221219/Visitbikaner/5676|,December,81400
+|Chq/Youtube/20221222/Visitbikaner/4564|,December,85400
+|Vfs/Instagram/20221225/Visitbikaner/4565|,December,86000
+|Neft/Offline/20221228/Visitbikaner/4566|,December,60000
+|Chq/Google Ads/20221201/Visitbikaner/3455|,December,69800
+|Vfs/Twitter/20221204/Visitbikaner/5666|,December,20200
+|Vfs/Twitter/20221104/Visitbikaner/5666|,November,84100
+|Vfs/Facebook/20221104/Visitrajasthan/5666|,November,54100
+|Vfs/Instagram/20221104/Visitrajasthan/5666|,November,57500
+|Vfs/Offline/20221104/Visitrajasthan/5666|,November,75400
+| Vfs/Youtube/20221104/Visitjodhpur/5666 |,November,95400
